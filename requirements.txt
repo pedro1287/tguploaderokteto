@@ -1,9 +1,9 @@
 requests
-requests[socks]
+requests socks
 bs4
-user_agent
-youtube_dl
+user agent
+
 mega.py
-requests_toolbelt
+requests toolbelt
 telethon
 tenacity
